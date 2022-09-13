@@ -89,3 +89,29 @@ b) aba -  YEs
         |
 	 bB| eps
 	 
+	 
+c) NO - can't produce bb
+d) abb  based on previuos conclusion we can't produce bb, answer is NO
+
+
+
+Quesetion 3
+
+a) NO - can't produce 00
+
+
+b) NO - 
+
+c) 010
+  S--> A0  
+     
+        |
+	A01
+	
+	| 
+	A01
+	
+	|
+	A01|eps
+
+	 
