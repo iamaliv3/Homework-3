@@ -69,6 +69,9 @@ S-->  NP     VP
                            
    
    
+   
+   
+   
    Questopn 2
    
    a) a - Yes
@@ -91,13 +94,20 @@ b) aba -  YEs
 	 
 	 
 c) NO - can't produce bb
-d) abb  based on previuos conclusion we can't produce bb, answer is NO
+d) abb  based on previuos conclusion we can't produce bb, answer is NO.
+
+
+
+
+
+
 
 
 
 Quesetion 3
 
 a) NO - can't produce 00
+
 
 
 b) NO - 
