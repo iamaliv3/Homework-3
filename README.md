@@ -67,4 +67,25 @@ S-->  NP     VP
                                   
        [HW3.pdf](https://github.com/iamaliv3/Homework-3/files/9558665/HW3.pdf)
                            
-                                  
+   
+   
+   Questopn 2
+   
+   a) a - Yes
+   S--> aA
+  
+         |
+	 bB|eps
+	 
+	 
+b) aba -  YEs
+ S--> aA
+ 
+     |
+     bB
+     
+      |
+      aA
+        |
+	 bB| eps
+	 
